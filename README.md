@@ -7,8 +7,8 @@ This repository contains the full materials for two tasks in the field of unsupe
 ## 📌 Contents
 
 ### 📄 Reports
-- `Full_Report_All_Tasks.docx` – Combined report including SOM, K-means, and Similarity Matrix Clustering.
-- `Zvit_Code_Fragments.docx` – Word document with key code fragments.
+- `Lab5_SOM_KMeans_Report.docx`  
+- `Lab6_Similarity_Clustering_Report` 
 
 ### 📊 Tables
 - `SOM_manual_BMU_Table.xlsx` – Best matching units (BMU) for SOM.
@@ -57,4 +57,6 @@ python detect_clusters.py
 
 ## 📬 Author
 
-Educational project on neural networks and unsupervised clustering.
+Andriy Sydor
+
+
